@@ -145,6 +145,13 @@ nav li a:hover {
 {
     margin: 20px;
 }
+
+#social a a:link a:visited 
+{
+    text-decoration: none;
+    color: white;
+}
+
 footer
 {
     width: 100%;
