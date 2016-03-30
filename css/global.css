@@ -113,13 +113,14 @@ nav li a:hover {
 
 #social {
     background: #000000;
-    color: #fafafa;
+    color: #ffffff;
     padding: 25px 0;
     overflow: hidden;
     text-align: center;
     float: left;
     width: 100%;
     position: relative;
+    text-decoration: none;
 }
 #social ul {
     clear:left;
