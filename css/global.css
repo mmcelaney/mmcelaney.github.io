@@ -116,7 +116,7 @@ nav li a:hover {
     color: #666666;
 }
 
-.three ul {
+.three li {
     font-size: 0.8em;
     -moz-column-gap: 20;
     -moz-column-count: 3;
