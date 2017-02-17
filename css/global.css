@@ -117,11 +117,13 @@ nav li a:hover {
 }
 
 .three ul {
-  float: left;
-  width: 33%;
-  margin: 0;
-  padding: 0;
-} 
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.three ul li {
+  flex: 1 0 25%;
+}
 
 #social {
     background: #000000;
