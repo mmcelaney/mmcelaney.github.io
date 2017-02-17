@@ -116,15 +116,12 @@ nav li a:hover {
     color: #666666;
 }
 
-.three li {
-    font-size: 0.8em;
-    -moz-column-gap: 20;
-    -moz-column-count: 3;
-    -webkit-column-count: 3;
-    -webkit-column-gap: 20;
-    column-count: 3;
-    column-gap: 20;
-}
+.three ul {
+  float: left;
+  width: 33%;
+  margin: 0;
+  padding: 0;
+} 
 
 #social {
     background: #000000;
