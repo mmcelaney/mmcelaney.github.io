@@ -116,15 +116,6 @@ nav li a:hover {
     color: #666666;
 }
 
-.three ul {
-  flex-wrap: wrap;
-  display: flex;
-}
-
-.three ul li {
-  flex: 1 0 25%;
-}
-
 #social {
     background: #000000;
     color: #ffffff;
