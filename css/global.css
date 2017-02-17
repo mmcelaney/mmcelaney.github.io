@@ -51,7 +51,8 @@ nav li a:hover {
 }
 
 .job {
-    width: 66%;
+    width: 80%;
+    text-align: center;
     float: center;
 }
 
